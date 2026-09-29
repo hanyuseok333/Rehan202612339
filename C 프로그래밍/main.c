@@ -13,4 +13,5 @@ int main (void) {
 
     printf("%d seconds is %d minutes and %d seconds\n", input, minute, second);
     return 0;
+    
 }
